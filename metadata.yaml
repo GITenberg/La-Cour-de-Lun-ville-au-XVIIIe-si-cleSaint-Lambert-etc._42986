@@ -1,0 +1,31 @@
+_repo: La-Cour-de-Lun-ville-au-XVIIIe-si-cleSaint-Lambert-etc._42986
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42986-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Maugras, Gaston
+    birthdate: 1850
+    deathdate: 1927
+    gutenberg_agent_id: '41973'
+    url: http://www.gutenberg.org/2009/agents/41973
+description: ''
+gutenberg_bookshelf: FR Biographie, Mémoires, Journal intime, Correspondance
+gutenberg_issued: '2013-06-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42986'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Stanislaw I Leszczynski, King of Poland, 1677-1766'
+- !lcc 'DK'
+- !lcsh 'Voltaire, 1694-1778'
+- !lcsh 'Du Châtelet, Gabrielle Emilie Le Tonnelier de Breteuil, marquise, 1706-1749'
+- !lcsh 'Boufflers, Marie Françoise Catherine de Beauvau, marquise de, 1711-1786'
+title: "La Cour de Lunéville au XVIIIe siècle\r\nLes marquises de Boufflers et du\
+  \ Châtelet, Voltaire, Devau, Saint-Lambert, etc."
+url: http://www.gutenberg.org/ebooks/42986
